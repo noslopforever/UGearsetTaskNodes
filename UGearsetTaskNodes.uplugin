@@ -1,0 +1,23 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "UGearset/Input/TaskNodes",
+  "Description": "Add some latent nodes (like WaitSeconds/WaitForInputKey) for UnrealEngine.",
+  "Category": "Other",
+  "CreatedBy": "noslopforever",
+  "CreatedByURL": "https://github.com/noslopforever/UGearsetInputTaskNodes",
+  "DocsURL": "https://github.com/noslopforever/UGearsetInputTaskNodes",
+  "MarketplaceURL": "",
+  "SupportURL": "https://github.com/noslopforever/UGearsetInputTaskNodes",
+  "CanContainContent": true,
+  "IsBetaVersion": true,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "UGearsetTaskNodes",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
