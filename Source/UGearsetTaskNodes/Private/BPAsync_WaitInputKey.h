@@ -3,7 +3,7 @@
 #include "BPAsync_WaitInputEventBase.h"
 #include "BPAsync_WaitInputKey.generated.h"
 
-/** Async action for waiting a OkCancel operation.
+/** Async task to wait a key input event.
 */
 UCLASS()
 class UBPAsync_WaitKeyTask
